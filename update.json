@@ -1,4 +1,8 @@
 {
   "version": "46",
-  "url": "https://github.com/HawkingChen/SokuMoba-Public/releases"
+  "url": "https://github.com/HawkingChen/SokuMoba-Public/releases",
+  "urls": {
+    "github": "https://github.com/HawkingChen/SokuMoba-Public/releases",
+    "gitee": "https://gitee.com/whzstsl/soku-moba-public/releases"
+  }
 }
